@@ -23,6 +23,27 @@
 
 
 
+.whyte-color{
+    color: white;
+}
+
+.green-color{
+    color: aquamarine;
+}
+
+
+
+
+
+
+
+.no-decoration{
+    text-decoration: none;
+}
+
+
+
+
 .width-IMP{
     width: 100%;
     border: none;
